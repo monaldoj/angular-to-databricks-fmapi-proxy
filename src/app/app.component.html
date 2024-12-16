@@ -1,0 +1,5 @@
+<button (click)="makeApiCall()">Make API Call</button>
+<div *ngIf="data">  <h3>Response from API:</h3>  <pre>{{ data | json }}</pre>
+</div>
+<div *ngIf="!data">  <p>Click button to call api...</p>
+</div>

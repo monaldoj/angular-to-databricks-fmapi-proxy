@@ -1,0 +1,8 @@
+{
+  "/serving-endpoints/databricks-meta-llama-3-3-70b-instruct/invocations": {
+    "target": "https://your-workspace-name.cloud.databricks.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
