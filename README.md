@@ -7,6 +7,14 @@ Update the environment to make sure your Databricks host url and access token ar
 
 Start the app with `npm start`
 
+### App upon load:
+![image](https://github.com/user-attachments/assets/dee3e22c-94d2-493a-88ea-7c6497131db4)
+
+### App after clicking "Make API Call" button: (the hardcoded prompt is: "Write a haiku about CORS errors in APIs.")
+![image](https://github.com/user-attachments/assets/3365f27d-9f30-43b6-a618-ec051056c3d7)
+
+
+
 ----------------------------------------------------------------
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
